@@ -5,9 +5,9 @@ Herramienta automatizada en Python y Flask diseñada para Termux, utilizando tú
 ## 🚀 Instalación y Uso
 
 1. clonar el repo en termux
-```bash
-git clone https://github.com/kravox-tool/ip-tracker.git
-```
+  ```bash
+  git clone https://github.com/kravox-tool/ip-tracker.git
+  ```
 3. entrar al repo
    ```bash
    cd ip-tracker
