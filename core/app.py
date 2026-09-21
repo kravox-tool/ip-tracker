@@ -29,7 +29,7 @@ banner = f"""
 ██║██╔═══╝░  ██║░░░░░██║░░██║██║░░╚██╗██║░░╚██╗██╔══╝░░██╔══██╗
 ██║██║░░░░░  ███████╗╚█████╔╝╚██████╔╝╚██████╔╝███████╗██║░░██║
 ╚═╝╚═╝░░░░░  ╚══════╝░╚════╝░░╚═════╝░░╚═════╝░╚══════╝╚═╝░░╚═╝{RESET}
-   {AMARILLO}{NEGRITA}--- Panel Automatizado Todo-En-Uno para Termux ---{RESET}
+   {AMARILLO}{NEGRITA}--- Panel Automatizado IP-tracker para Termux ---{RESET}
 """
 
 os.system("clear")
